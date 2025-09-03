@@ -342,7 +342,7 @@ const privateMemories = [
 ];
 
   const handlePrivateAccess = () => {
-    if (password === 'kushu') {
+    if (password === 'Kushu0213') {
       setShowPrivate(true);
     } else {
       alert('Incorrect password! This section is only for Kushu 💕');
